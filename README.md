@@ -8,7 +8,7 @@ biblioteca MPI de computação paralela,
 são eles: 
 CGM Versão 1 e CGM Versão 2.
 
-Em "CGM Versão 1.jpg" e "CGM Versão 2.jpg"
+Em "CGM Versão 1.jpg" e "CGM Versão 2.png"
 se encontra disponível o pseudocódigo
 de cada algoritmo.
 
